@@ -1,0 +1,4 @@
+Zadanie 2 (20%) Napisz program, który przyjmuje 2 argumenty wiersza poleceń. Pierwszy z argumentów
+ jest znakiem, drugi nazwą pliku. Program powinien wyświetlić na ekranie tylko te wiersze pliku
+  wejściowego,które zawierają dany znak. Zakładamy, że każdy wiersz w pliku kończy się znakiem
+   przejścia do nowej linii. Przyjmujemy, że żaden wiersz nie przekracza długości 256 znaków.

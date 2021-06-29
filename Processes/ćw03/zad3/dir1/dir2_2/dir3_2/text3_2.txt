@@ -1,0 +1,4 @@
+Zadanie 5 (20%) Napisz program, który kopiując podany plik (parametr programu) do innego pliku
+ (drugi parametr programu), ”łamie” wiersze, które mają więcej niż 50 znaków (łącznie ze spacjami).
+Znaki po-wyżej 50-tego przenoszone są do nowej linii (dodatkowy wiersz). Wiersze krótsze
+ kopiowane są bez zmian

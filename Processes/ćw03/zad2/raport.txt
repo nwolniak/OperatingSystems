@@ -1,0 +1,37 @@
+Test : 
+merge_few_small_pairs results :
+Real time : 16.000000
+User time : 0.000000
+Cpu time : 0.000000
+merge_more_small_pairs results :
+Real time : 72.000000
+User time : 0.000000
+Cpu time : 0.000000
+merge_many_small_pairs results :
+Real time : 294.000000
+User time : 1.000000
+Cpu time : 0.000000
+merge_few_medium_pairs results :
+Real time : 16.000000
+User time : 0.000000
+Cpu time : 0.000000
+merge_more_medium_pairs results :
+Real time : 70.000000
+User time : 0.000000
+Cpu time : 0.000000
+merge_many_medium_pairs results :
+Real time : 290.000000
+User time : 1.000000
+Cpu time : 0.000000
+merge_few_big_pairs results :
+Real time : 18.000000
+User time : 2.000000
+Cpu time : 0.000000
+merge_more_big_pairs results :
+Real time : 73.000000
+User time : 1.000000
+Cpu time : 1.000000
+merge_many_big_pairs results :
+Real time : 315.000000
+User time : 2.000000
+Cpu time : 1.000000

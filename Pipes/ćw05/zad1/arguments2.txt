@@ -1,0 +1,5 @@
+składnik1 = cd
+składnik2 = ls
+
+składnik1
+składnik2

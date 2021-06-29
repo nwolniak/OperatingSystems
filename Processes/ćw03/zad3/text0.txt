@@ -1,0 +1,5 @@
+Zadanie 1 (20%) Napisz program, który otwiera dwa pliki o nazwach podanych w wierszu poleceń. Jeśli
+ argumentów nie podano, wówczas nazwy plików mają być pobrane od użytkownika. Program powinien
+  wyświetlać wiersze z obu plików naprzemienne, to znaczy: 1-szą linię z pierwszego pliku, 1-szą
+   linię z drugiego pliku, 2-gą linię z pierwszego pliku, 2-gą linię z drugiego pliku, itd., aż do
+    momentu, wyświetlenia ostatniego wiersza pliku zawierającego większą liczbę wierszy.

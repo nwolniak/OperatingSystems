@@ -1,0 +1,10 @@
+Dla N i M < 5: N=1, M=1
+Kucharz musi oczekiwać na zwolnienie miejsca na stole. Dostawca nie zdąży
+dostarczyć pizzy szybciej niż kucharz ją przygotować zatem kucharz będzie często oczekiwał
+w stanie po wyciągnięciu pizzy z pieca a przed położeniem jej na stół do odbioru.
+
+Dla N i M > 5: N=6, M=6
+Liczba zajętych miejsc w piecu jak i na stole po kilkunastu sekundach zostaje zapełniona,
+zatem kucharze będę oczekiwać wraz z przygotowaną pizza przed umieszczeniem jej w piecu oraz
+z gotową pizzą po wyjęciu jej z pieca a przed położeniem jej na stole do odbioru.
+Dostawcy będą ciągle zajęci odbieraniem pizz i ich dostarczaniem.

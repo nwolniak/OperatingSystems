@@ -1,0 +1,2 @@
+Dla obu wariantów implementacji należy przeprowadzić pomiar czasu wykonywania obu wariantów
+ programów. Wyniki należy przedstawić w formie pliku pomiar_zad_x.txt 
